@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konu_Yorum_CoreEfDbfirst", "Konu_Yorum_CoreEfDbfirst\Konu_Yorum_CoreEfDbfirst.csproj", "{5C7110E0-942C-4ADD-AE47-72B2A5C6FB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7110E0-942C-4ADD-AE47-72B2A5C6FB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7110E0-942C-4ADD-AE47-72B2A5C6FB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7110E0-942C-4ADD-AE47-72B2A5C6FB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7110E0-942C-4ADD-AE47-72B2A5C6FB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C1336E-D027-4694-BD38-4FA3F5A28C83}
+	EndGlobalSection
+EndGlobal
